@@ -1,6 +1,6 @@
 # Advance-JavaScript
 
-<h1>Let's learn Promises.</h1>
+<h2>Let's learn Promises.</h2>
 Promises in JavaScript provide a way to handle asynchronous operations. 
 They allow you to write code that will only execute after a specific task (like fetching data from a server) has completed. 
 Here's a step-by-step overview of how promises work and how you can use them:

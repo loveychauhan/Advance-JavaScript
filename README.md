@@ -20,9 +20,9 @@ Chaining promises in JavaScript allows you to execute multiple asynchronous oper
 
 JavaScript Promises are objects that represent the eventual completion (or failure) of an asynchronous operation and its resulting value. They are a key feature for handling asynchronous operations in modern JavaScript.
 
-<h3>Promise.all(iterable):</h3> Waits for all promises in the iterable to resolve or for any to reject. Returns an array of results.<br>
-<h3>Promise.allSettled(iterable):</h3> Waits for all promises to settle (resolve or reject) and returns an array of objects describing the outcomes.<br>
-<h3>Promise.race(iterable):</h3> Returns the value of the first promise to settle (resolve or reject).<br>
-<h3>Promise.any(iterable):</h3> Returns the first resolved promise. If all promises reject, it returns an AggregateError.<br>
+<h3>Promise.all(iterable):</h3> Waits for all promises in the iterable to resolve or for any to reject. Returns an array of results.
+<h3>Promise.allSettled(iterable):</h3> Waits for all promises to settle (resolve or reject) and returns an array of objects describing the outcomes.
+<h3>Promise.race(iterable):</h3> Returns the value of the first promise to settle (resolve or reject).
+<h3>Promise.any(iterable):</h3> Returns the first resolved promise. If all promises reject, it returns an AggregateError.
 
 <i style="font-size:14px">Read Promise Api js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/08%20promise%20api/app.js">app.js</a></i>

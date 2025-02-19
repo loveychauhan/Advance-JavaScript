@@ -35,5 +35,5 @@ JavaScript is single-threaded, which means it can only do one thing at a time. a
 <h3>Readability and Maintainability</h3>  
 Before async/await, asynchronous code was often written using callbacks or promises, which could become complex and hard to follow. async/await makes the code look more like synchronous code, which is easier to read and understand.
 <br/>
-<i style="font-size:14px">Read Promise Api js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/08%20promise%20api/app.js">app.js</a></i>
+<i style="font-size:14px">Read Async Await js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/09%20async%20await/app.js">app.js</a></i>
 

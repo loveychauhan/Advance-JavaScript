@@ -25,7 +25,7 @@ JavaScript Promises are objects that represent the eventual completion (or failu
 <h3>Promise.race(iterable):</h3> Returns the value of the first promise to settle (resolve or reject).
 <h3>Promise.any(iterable):</h3> Returns the first resolved promise. If all promises reject, it returns an AggregateError.
 <br/>
-<i style="font-size:14px">Read Promise Api js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/08%20promise%20api/app.js">app.js</a></i>
+<i style="font-size:14px">Read Promise Api js code to understand with example <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/08%20promise%20api/app.js">app.js</a></i>
 
 <h2>Async Await</h2>
 The async and await keywords in JavaScript enable you to write asynchronous code that's easier to read and maintain.
@@ -35,7 +35,7 @@ JavaScript is single-threaded, which means it can only do one thing at a time. a
 <h3>Readability and Maintainability</h3>  
 Before async/await, asynchronous code was often written using callbacks or promises, which could become complex and hard to follow. async/await makes the code look more like synchronous code, which is easier to read and understand.
 <br/>
-<i style="font-size:14px">Read Async Await js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/09%20async%20await/app.js">app.js</a></i>
+<i style="font-size:14px">Read Async Await js code to understand with example <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/09%20async%20await/app.js">app.js</a></i>
 
 <h2>This Keyword</h2>
 <h3>this in global space</h3>
@@ -53,5 +53,5 @@ call, apply and bind can be used to modify value of this.
 
 <h3>this inside arrow funciton</h3>
 arrow function doesn't provide their own this binding (it retain value of it enclosing lexical context).<br>
-<i style="font-size:14px">Read this keyword in  js  with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/10%20this%20keyword/app.js">app.js</a></i>
+<i style="font-size:14px">Read this keyword in  js  with example <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/10%20this%20keyword/app.js">app.js</a></i>
 

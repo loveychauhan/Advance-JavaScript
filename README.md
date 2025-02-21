@@ -37,3 +37,20 @@ Before async/await, asynchronous code was often written using callbacks or promi
 <br/>
 <i style="font-size:14px">Read Async Await js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/09%20async%20await/app.js">app.js</a></i>
 
+<h2>This Keyword</h2>
+<h3>this in global space</h3>
+this inside global space refer to the global object e.g. in browser it is window
+
+<h3>this inside a function</h3>
+this keyword inside a function is undefined but due to ('this substitution) we get global object.
+
+<h3>this keyword value depends on how the function is called</h3>
+
+<h3>this inside a object menthod</h3>
+
+<h3>call, apply and bind can be used to modify value of this.</h3>
+
+<h3>this inside arrow funciton</h3>
+arrow function doesn't provide their own this binding (it retain value of it enclosing lexical context).<br>
+<i style="font-size:14px">Read Async Await js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/09%20async%20await/app.js">app.js</a></i>
+

@@ -53,5 +53,5 @@ call, apply and bind can be used to modify value of this.
 
 <h3>this inside arrow funciton</h3>
 arrow function doesn't provide their own this binding (it retain value of it enclosing lexical context).<br>
-<i style="font-size:14px">Read Async Await js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/10%20this%20keyword/app.js">app.js</a></i>
+<i style="font-size:14px">Read this keyword in  js  with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/10%20this%20keyword/app.js">app.js</a></i>
 

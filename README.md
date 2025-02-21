@@ -45,10 +45,11 @@ this inside global space refer to the global object e.g. in browser it is window
 this keyword inside a function is undefined but due to ('this substitution) we get global object.
 
 <h3>this keyword value depends on how the function is called</h3>
-
 <h3>this inside a object menthod</h3>
+this inside object method refer to the object where it is called.
 
-<h3>call, apply and bind can be used to modify value of this.</h3>
+<h3>call, apply and bind</h3>
+call, apply and bind can be used to modify value of this.
 
 <h3>this inside arrow funciton</h3>
 arrow function doesn't provide their own this binding (it retain value of it enclosing lexical context).<br>

@@ -52,5 +52,5 @@ this keyword inside a function is undefined but due to ('this substitution) we g
 
 <h3>this inside arrow funciton</h3>
 arrow function doesn't provide their own this binding (it retain value of it enclosing lexical context).<br>
-<i style="font-size:14px">Read Async Await js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/09%20async%20await/app.js">app.js</a></i>
+<i style="font-size:14px">Read Async Await js code to understand with exaple <a href ="https://github.com/loveychauhan/Advance-JavaScript/blob/main/10%20this%20keyword/app.js">app.js</a></i>
 

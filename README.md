@@ -1,5 +1,6 @@
 # Advance-JavaScript
-
+<h2>Callback hell</h2>
+Callback hell, also known as the "pyramid of doom," occurs when you have multiple nested callbacks in asynchronous programming, making the code difficult to read and maintain. This often happens in JavaScript when dealing with asynchronous operations like API calls or file handling.
 <h2>Let's learn Promises.</h2>
 Promises in JavaScript provide a way to handle asynchronous operations. 
 They allow you to write code that will only execute after a specific task (like fetching data from a server) has completed. 

@@ -1,4 +1,6 @@
 # Advance-JavaScript
+<h2>First classs function</h2>
+A first-class function is a concept in programming where functions are treated as first-class citizens. This means that functions can be assigned to variables, passed as arguments to other functions, returned from functions, and stored in data structures.
 
 <h2>Higher order function</h2>
 A higher-order function is a powerful concept in programming that takes other functions as arguments or returns them as results. It's a way to make your code more flexible, concise, and reusable.
